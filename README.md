@@ -8,7 +8,7 @@ This project focuses on predicting customer churn using a structured dataset con
 
 By applying different machine learning models, the project highlights how data-driven approaches can support decision-making in customer retention.
 
----
+
 
 ##  About the Dataset
 
